@@ -90,7 +90,7 @@ const Footer = () => {
           <div className="flex items-center gap-2 text-xs text-gray-500">
             <span>Developed by</span>
             <a 
-              href="https://vrocks-agency.vercel.app" 
+              href="https://my-portfolio-ochre-ten-83.vercel.app/tr" 
               target="_blank" 
               className="text-fener-yellow hover:text-white font-bold transition-colors flex items-center gap-1"
             >
